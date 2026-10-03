@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5d1dcf4ee421f8b0af8c6c92",
+  "owner": "tpgkwnxj3",
+  "repo": "page-edf0a89f57e835b2ce4c51d9",
+  "title": "Global",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "edf0a89f57e835b2ce4c51d9",
+      "a": "Global",
+      "b": "",
+      "entity": "Global",
+      "brand": "Global",
+      "separator": "",
+      "path": "index.html",
+      "hash": "788b02af558dd6c9b875a993f93cc0258f0c273057c05ac15e6ea17cc1a96df9",
+      "content": {
+        "keyword1": "Global",
+        "keyword2": "",
+        "primary_entity": "Global",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Global 是面向个人与团队的官方网络加速平台，提供机场订阅、多端客户端下载以及稳定的梯子与流媒体解锁能力。",
+          "AI_DESCRIPTION": "Global 是面向个人与团队的官方网络加速平台，提供机场订阅、多端客户端下载以及稳定的梯子与流媒体解锁能力。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#07141f;color:#e7f3fa;line-height:1.7;max-width:100%;overflow-x:hidden}a{color:#2ee6d6;text-decoration:none}a:hover{text-decoration:underline}.bar{background:#0a2233;border-bottom:2px solid #1ac8e0;padding:14px 16px}.wrap{max-width:920px;margin:0 auto;padding:16px}nav{display:flex;flex-wrap:wrap;gap:10px 16px;font-size:0.95rem}h1{font-size:1.7rem;color:#ffffff;margin:8px 0 12px;line-height:1.35}h2{font-size:1.32rem;color:#2ee6d6;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #1a4a5c}h3{font-size:1.08rem;color:#b8e8f0;margin:14px 0 8px}p,li{margin:0 0 10px;color:#d5e8f0}ul{padding-left:1.2em;margin-bottom:12px}.lead{font-size:1.05rem;color:#cfeaf3}.card{background:#0c2233;border:1px solid #1a4a5c;border-radius:8px;padding:16px;margin:12px 0}.plans{display:flex;flex-direction:column;gap:12px}.plan{background:#0c2233;border:1px solid #1a4a5c;border-radius:8px;padding:16px}.plan.featured{border-color:#2ee6d6}.tag{display:inline-block;background:#128f9e;color:#07141f;font-size:0.75rem;font-weight:700;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:1.25rem;color:#ffffff;font-weight:700;margin:6px 0}.annual{color:#9bb8c9;font-size:0.92rem;margin-bottom:10px}.btn{display:inline-block;background:#1ac8e0;color:#07141f;font-weight:700;padding:10px 16px;border-radius:6px;margin:8px 8px 0 0}.btn:hover{text-decoration:none}.step{display:flex;gap:12px;margin:14px 0;align-items:flex-start}.num{flex-shrink:0;width:32px;height:32px;border-radius:50%;background:#0a3d62;color:#2ee6d6;display:flex;align-items:center;justify-content:center;font-weight:700}.faq{margin-top:8px}details{background:#0c2233;border:1px solid #1a4a5c;border-radius:8px;margin:10px 0;padding:0 14px}summary{font-weight:700;color:#ffffff;padding:12px 0}details p{padding:0 0 12px;color:#d5e8f0}.ad{background:#0a2a3a;border:1px dashed #2a6a7a;padding:12px;text-align:center;color:#9bb8c9;margin:18px 0;border-radius:6px}footer{margin-top:24px;padding:20px 16px;background:#061018;border-top:1px solid #1a4a5c;font-size:0.9rem;color:#9bb8c9}footer a{margin-right:10px}.muted{color:#9bb8c9}table{width:100%;border-collapse:collapse;margin:10px 0 14px;font-size:0.95rem}th,td{border:1px solid #1a4a5c;padding:8px;text-align:left}th{background:#0a2233;color:#b8e8f0}@media (min-width:760px){.plans{flex-direction:row}.plan{flex:1}h1{font-size:2rem}}</style><header class=\"bar\"><div class=\"wrap\"><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">教程</a><a href=\"#download\">下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main class=\"wrap\"><h1>Global 官方加速器</h1><p class=\"lead\" id=\"intro\">Global 是面向个人用户与协作团队的官方网络加速平台，以机场订阅为核心，配套多端客户端与持续维护的节点池。无论你需要稳定梯子、流媒体解锁，还是办公与游戏加速，都可以在本站完成套餐选择、订阅获取与官方下载。</p><section class=\"card\"><h2>品牌简介</h2><p>Global VPN 与 Global 机场采用统一账号体系：一次订阅，可在电脑、手机与路由器中导入使用。线路侧覆盖常规中转与 IPLC 专线，日常浏览、跨境协作、学术检索与娱乐访问可按套餐分流。官方网站只分发经过校验的客户端与订阅说明，避免来路不明的安装包。</p><p>服务定位清晰：基础版满足轻量上网，旗舰版强化原生流媒体与游戏延迟，团队版面向多设备与定制路由。节点会按高峰期动态扩容，订阅到期前可在账号中心续费，流量与设备数按套餐上限执行。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与资料访问</h3><p>远程会议、云盘同步与代码仓库在高峰时段容易抖动。Global 将办公常用域名走稳定中转，旗舰版与团队版可指定低延迟线路，减少会话中断。</p><h3>流媒体与内容研究</h3><p>基础版解锁常见平台的基础片源；旗舰版强调全节点原生解锁，适合长期追剧与区域内容对照。请遵守当地法规与平台条款，仅用于合法访问。</p><h3>游戏加速与移动出行</h3><p>旗舰版含 IPLC 专线游戏优化，适合对延迟敏感的对战与更新下载。出差或多设备家庭可升级团队版，把 20 台终端纳入同一订阅策略。</p></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>以下价格为官网公示档位，按月开通，按年支付可锁定优惠。流量为当月高速额度，用尽后可降速或升级，不与其他促销叠加承诺绑定。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn\" href=\"#download\">去官方下载</a></article><article class=\"plan featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#download\">去官方下载</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn\" href=\"#download\">去官方下载</a></article></div></section><section id=\"guide\"><h2>操作说明</h2><p>按纵向步骤完成开通，无需额外插件。订阅链接仅在登录后的控制台显示，请勿转发到公开群组。</p><div class=\"step\"><div class=\"num\">1</div><div><h3>打开 Global 官网并选择套餐</h3><p>确认域名与本页一致后，对照流量、设备数与是否需要 IPLC，选择基础版、旗舰版或团队版。</p></div></div><div class=\"step\"><div class=\"num\">2</div><div><h3>完成订阅并复制机场链接</h3><p>支付成功后进入控制台，复制 Clash / Surge / 通用订阅地址。建议开启订阅令牌，防止链接被扫。</p></div></div><div class=\"step\"><div class=\"num\">3</div><div><h3>下载对应客户端</h3><p>前往 <a href=\"#download\">官方下载</a> 获取 Windows、macOS、Android、iOS 或 Linux 安装包，校验版本号后再安装。</p></div></div><div class=\"step\"><div class=\"num\">4</div><div><h3>导入订阅并选择节点</h3><p>在客户端粘贴订阅 URL，更新节点列表。日常浏览选中转综合，游戏选 IPLC，流媒体选标明原生解锁的区域。</p></div></div><div class=\"step\"><div class=\"num\">5</div><div><h3>测速与分流</h3><p>首次连接后做一次延迟测试，把常用域名写入分流规则。团队版可提交定制路由需求，由客户经理协助落地。</p></div></div></section><section id=\"download\"><h2>客户端下载</h2><p>Global 官方下载只提供当前稳定渠道。安装完成后用同一订阅即可多端同步配置。若应用商店地区限制，请使用本站给出的安装说明，而不是来路不明的镜像。</p>平台说明Windows / macOS官方桌面加速器，支持系统代理与规则分流Android / iOS移动端客户端，可后台保活与一键切换节点Linux命令行与图形客户端，适合开发机常驻Clash 兼容内核导入 Global 机场订阅即可使用社区客户端<p><a class=\"btn\" href=\"#\">Windows 官方下载</a><a class=\"btn\" href=\"#\">macOS 官方下载</a><a class=\"btn\" href=\"#\">Android 官方下载</a><a class=\"btn\" href=\"#\">iOS 安装说明</a></p><p class=\"muted\">下载地址以登录后控制台为准。本页按钮指向站内说明锚点，避免跳转到未备案第三方。</p></section><section class=\"ad\">广告位：Global 仅展示官方合作信息，不接入来路不明的下载站。</section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><p>以下为使用 Global 机场与 VPN 客户端时最常被问到的事项，展开即可阅读完整说明。</p><details><summary>Global 是什么？和普通 VPN 有何不同？</summary><p>Global 同时提供独立客户端与机场订阅。你可以直接用官方加速器，也可以把订阅导入 Clash 等工具。节点、流量与设备数按套餐管理，比单一地区 VPN 更适合多场景分流。</p></details><details><summary>如何从官网下载客户端并完成安装？</summary><p>打开本页下载区，选择系统后获取安装包。Windows 与 macOS 按提示授权网络扩展，手机端允许 VPN 配置即可。安装后不要开启多个内核同时抢代理端口。</p></details><details><summary>机场订阅怎样导入？链接泄露怎么办？</summary><p>在客户端选择“从 URL 更新”，粘贴控制台中的订阅地址。若怀疑泄露，立刻在官网重置令牌，旧链接会失效。不要把订阅发到公开频道。</p></details><details><summary>基础版、旗舰版、团队版该怎么选？</summary><p>轻度网页与三台设备选基础版；需要原生流媒体、游戏 IPLC 与优先工单选旗舰版；工作室或多人口家庭、需要定制路由与客户经理选团队版。</p></details><details><summary>流媒体无法播放或游戏延迟高如何处理？</summary><p>先更新订阅，改用标明原生解锁或 IPLC 的节点，关闭系统里其他代理。若旗舰版仍异常，走 7x24 工单并提供错误代码与节点名称，便于线路侧排查。</p></details><details><summary>流量、设备数超限或需要更换终端怎么办？</summary><p>当月高速流量用尽后会降速，可升级套餐立即生效。超过同时在线台数时踢掉闲置设备即可。更换电脑或手机后删除旧配置，用同一订阅重新导入。</p></details></section><section class=\"card\"><h2>节点与性能说明</h2><p>Global 节点池包含亚太、北美与欧洲入口。普通线路适合网页与即时通讯；旗舰版 IPLC 用于对延迟敏感的游戏与远程桌面；团队版 VIP 节点限制并发，保证带宽。实际速度受本地宽带与时段影响，建议在客户端内测延迟后再收藏节点。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>Global 官方网站 · 机场订阅与客户端下载</p><p>站点地图：<a href=\"#\">sitemap.xml</a> · <a href=\"#intro\">回到顶部</a></p><p>友链：<a href=\"#\">网络诊断</a><a href=\"#\">规则语法</a><a href=\"#\">分流示例</a><a href=\"#\">工单入口</a></p><p class=\"muted\">请合法使用加速服务。页面内容用于介绍 Global 官方套餐、教程与下载途径。</p></div></footer>",
+          "hash": "452156f20823c528c8f7f50596f4cd168e8ef15817b99a7981437692261e06ca",
+          "seo": {
+            "title": "Global 官网 | VPN 梯子网络加速、机场订阅与客户端下载",
+            "keywords": "Global,Global VPN,Global机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC专线",
+            "description": "Global 是面向个人与团队的官方网络加速平台，提供机场订阅、多端客户端下载以及稳定的梯子与流媒体解锁能力。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bnhpk.cn",
+    "host": "p-76939ffe52.bnhpk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bnhpk.cn",
+      "url": "https://bnhpk.cn/",
+      "label": "樱花加速(SakuraQuicken)",
+      "apex": "bnhpk.cn",
+      "kind": null,
+      "identity": "dhbwbpdpjq/page-d20230f4c7471bbf8567080b"
+    },
+    {
+      "host": "bnkqk.cn",
+      "url": "https://bnkqk.cn/",
+      "label": "Global",
+      "apex": "bnkqk.cn",
+      "kind": null,
+      "identity": "mumdvvmp/page-e6772dd75ca2b719559299f3"
+    },
+    {
+      "host": "lqjulef.cn",
+      "url": "https://lqjulef.cn/",
+      "label": "Global",
+      "apex": "lqjulef.cn",
+      "kind": null,
+      "identity": "bfnhwhp/page-b553c9bb3e399d978ba2fda3"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b88030d791e10beb4bcde853b13d1f0eb462703c9979206f94324f7c882828e2",
+    "sitemap.xml": "1a12635b66fe01b69a3da671e63782bd5ffe864b294df6b1ef1b4f5aad06c84e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6e10a106ee78dc461ba28505c826f490ee5cfff3632f5a1c75cea4193832cfc1",
+    "robots.txt": "1789264174e459818d3f0a6b00f0ee9d37e3e244b2cdbc6f03ee962e6d57f408",
+    "99bf1104c0099007a387fdd4a4373df4.txt": "c8f5f38061d4d2ee83b604eb837c18ac329e2a98b89a734aae740a1006798eb6"
+  },
+  "revision": "a3d43afbd648257bd941b9d6fa2ceec04536c740681b1083ee243d94c69e444d"
+}
